@@ -1,0 +1,49 @@
+#nav-bar{
+    position: fixed;
+    top: 5;
+    margin-left: 7%;
+    display: span;
+    color: lightblue;
+    font-weight: 10px;
+    font-family: Brush Script MT, Verdana;
+    }
+    
+    a:hover {
+      background-color: white;
+    }
+    
+    li{
+      display: inline;
+    }
+    
+    ul{
+      display: inline;
+      margin: 75px;
+    }
+    
+    header-img{
+      position: fixed; 
+    }
+    
+    @media only screen and(max-height:500px) {
+    
+    body {
+    
+    background-color: lightblue;
+    }
+    
+    }
+    
+    .flex{
+      display: flex;
+      margin: 20px;
+    }
+    
+    .section{
+      margin: 20px;
+    }
+    
+    email text{
+      font-family: Brush Script MT, Verdana;
+      font-weight: 12px;
+    }
